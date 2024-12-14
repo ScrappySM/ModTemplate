@@ -11,7 +11,8 @@ It comes with all boilerplate you need, a highly permissive license, and a simpl
 4. Open the project in Visual Studio or any IDE that support the MSBuild system.
 5. Modify `manifest.json` with your mod details.
 6. Make any modifications you like to `dllmain.cpp` and compile the project.
-7. If it works, coomit and push your changes to GitHub with a [tagged commit](https://git-scm.com/book/en/v2/Git-Basics-Tagging)! If your repo is public mod launchers can automatically download and install your mod if you request it to be added to their repos!
+7. If it works, commit and push your changes to GitHub with a [tagged commit](https://git-scm.com/book/en/v2/Git-Basics-Tagging)!
+8. Go to your releases, find the draft release and press edit then publish! If your repo is public mod launchers can automatically download and install your mod if you request it to be added to their repos!
 
 > [!NOTE]
 > Want to be put on the [Carbon Launcher](https://github.com/ScrappySM/CarbonLauncher) repo? Just ask in the [issues](https://github.com/ScrappySM/CarnonLauncher/issues)!
