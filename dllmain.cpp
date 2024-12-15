@@ -32,7 +32,7 @@ int main(LPVOID lpReserved) {
 /// Entry point for the DLL
 /// </summary>
 /// <param name="hModule"></param>
-/// <param name="ul_reason_for_call"></param>
+/// <param name="dwReason"></param>
 /// <param name="lpReserved"></param>
 /// <returns>TRUE on success</returns>
 BOOL APIENTRY DllMain(HMODULE hModule, DWORD dwReason, LPVOID lpReserved) {
