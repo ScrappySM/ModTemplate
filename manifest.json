@@ -5,11 +5,7 @@
   "url": "https://github.com/ScrappySM/ModTemplate",
 
   "authors": [
-    // These are all valid (GitHub, Email, Name) but please only include one
-    // per author/contributor.
-    "@BenMcAvoy",
-    "ben.mcavoy@tutanota.com",
-    "Ben McAvoy"
+    "BenMcAvoy"
   ],
 
   "description": "A template for creating mods for Scrap Mechanic."
